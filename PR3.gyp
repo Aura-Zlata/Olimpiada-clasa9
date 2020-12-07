@@ -6,5 +6,5 @@ Date de intrare: 2
 Date de iesire: 24 luni  730 zile   17520 ore.
 """
 
-n=eval(input("Nr de ani: "))
+n=eval(input("Introduceti ani: "))
 print(n*12,"luni ",n*365,"zile ",n*365*24,"ore")
