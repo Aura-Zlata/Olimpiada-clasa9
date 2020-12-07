@@ -6,5 +6,5 @@ Date de intrare: nr. de alune 86.
 Date de iesire: pentru fiecare purcel revine 28 alune, Ritei 1- au ramas 2 alune.
 """
 
-n=eval(input("Numarul de alune: "))
+n=eval(input("Introduceti numarul de alune: "))
 print("Fiecarui purcelus ii revine",n//3,"alune, iar Ritei ii raman",n%3,"alune.")
