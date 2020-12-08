@@ -16,6 +16,6 @@ b=9
 #lungimea laturii a dreptunghiului
 e=d/b
 #lungime a gardului a dreptunghiului
-f=(e+c)*2
+f=(e+b)*2
 
 print("Gardul care imprejmuieste acest loc are lungimea de",f,"metri.")
